@@ -1,0 +1,3 @@
+IP-ravpreetbd.aternos.me
+PORT-60805
+NAME PANDU
